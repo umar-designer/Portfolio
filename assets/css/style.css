@@ -1121,7 +1121,7 @@ section {
   }
 }
 .whatsapp-link {
-  color: blue !important; /* Make sure the text is blue */
+  color: #0051ff !important; /* Make sure the text is blue */
   text-decoration: underline !important; /* Underline the text */
   cursor: pointer; /* Makes the cursor show as a pointer when hovering over the text */
 }
@@ -1130,7 +1130,7 @@ section {
   color: #25d366 !important; /* Changes the color to WhatsApp's green when hovering */
 }
 .email a p {
-  color: blue; /* Makes the email address text blue */
+  color: #0051ff; /* Makes the email address text blue */
   text-decoration: none; /* Ensures the email is not underlined by default */
 }
 
